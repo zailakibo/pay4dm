@@ -1,5 +1,9 @@
-# first-repo
+# Pay4DM
 
-just a test
+This app will solve all the DM problems with scams
 
-another test
+You will set your price to get contacted by someone that isnt in your safe list.
+
+Every message on the system is a transaction in Solana.
+
+Every message will be public.
